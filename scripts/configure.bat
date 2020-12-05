@@ -1,0 +1,1 @@
+robocopy "..\config" "..\dayzserver" *.* /e
