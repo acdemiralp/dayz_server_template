@@ -10,7 +10,7 @@ A template for creating DayZ Standalone servers.
 - Run `scripts/install_all.bat` once.
 
 ### Running
-- Run `scripts/run.bat` to launch the server. This automatically restarts the server after a shutdown or crash.
+- Run `scripts/run.bat` to launch the server. This automatically restarts the server after a shutdown or crash, and ensures the server and the mods are up to date between restarts.
 
 ### Manual updating
 - Run `scripts/install_dayz_server.bat` to manually update the server.
